@@ -8,24 +8,17 @@ let proxyIP = '';
 let socks5Address = '';
 
 let addresses = [
-	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
-	/*
-	'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#加入我的频道t.me/CMLiussss解锁更多优选节点',
-	'visa.cn:443',
-	'www.visa.com:8443',
-	'cis.visa.com:2053',
-	'africa.visa.com:2083',
-	'www.visa.com.sg:2087',
-	'www.visaeurope.at:2096',
-	'www.visa.com.mt:8443',
-	'qa.visamiddleeast.com',
-	'time.is',
-	'www.wto.org:8443',
-	'chatgpt.com:2087',
-	'icook.hk',
-	'104.17.0.0#IPv4',
-	'[2606:4700::]#IPv6'
-	*/
+		'104.17.196.104',
+		'104.18.162.211',
+		'172.67.13.167',
+		'172.67.15.230',
+		'172.67.8.57',
+		'104.16.15.132',
+		'172.67.161.14',
+		'104.16.45.255',
+		'104.19.129.81',
+		'104.27.123.19',
+		'104.27.42.108'
 ];
 
 let sub = ''; 
